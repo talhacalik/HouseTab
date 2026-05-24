@@ -7,9 +7,9 @@ HouseTab lets people living together record shared expenses, automatically split
 <br/>
 
 <!-- Replace with real screenshots -->
-| Dashboard | Expenses | Debts | AI Report |
-|-----------|----------|-------|-----------|
-| ![dashboard](docs/screenshots/dashboard.png) | ![expenses](docs/screenshots/expenses.png) | ![debts](docs/screenshots/debts.png) | ![ai](docs/screenshots/ai.png) |
+| Dashboard | Expenses | Debts | Profile |
+|-----------|----------|-------|---------|
+| ![dashboard](docs/screenshots/dashboard.png) | ![expenses](docs/screenshots/expences.png) | ![debts](docs/screenshots/debts.png) | ![profile](docs/screenshots/profile.png) |
 
 <br/>
 

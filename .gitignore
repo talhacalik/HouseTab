@@ -22,6 +22,9 @@ application-*.properties
 *.mobileprovision
 *.pem
 
+# Claude Code local context (not for source control)
+.claude/
+
 # OS
 .DS_Store
 Thumbs.db
