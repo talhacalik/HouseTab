@@ -28,3 +28,6 @@ application-*.properties
 # OS
 .DS_Store
 Thumbs.db
+
+CLAUDE.md  
+PRODUCT.md
