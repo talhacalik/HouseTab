@@ -1,0 +1,16 @@
+# Bu dosyayı kopyala: application-local.properties
+# application-local.properties .gitignore'a eklidir — commit ETME
+
+# PostgreSQL
+DB_HOST=localhost
+DB_PORT=5432
+DB_NAME=sharedhomefinance
+DB_USERNAME=postgres
+DB_PASSWORD=your_strong_password_here
+
+# Firebase — serviceAccountKey.json dosyasını src/main/resources/ altina koy
+# VEYA: FIREBASE_SERVICE_ACCOUNT_JSON env var'ina JSON icerigini yapistir
+FIREBASE_SERVICE_ACCOUNT_PATH=serviceAccountKey.json
+
+# Gemini API Key — Google AI Studio'dan al: https://aistudio.google.com/apikey
+GEMINI_API_KEY=your_gemini_api_key_here

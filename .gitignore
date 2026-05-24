@@ -1,0 +1,27 @@
+# Secrets — never commit these
+serviceAccountKey.json
+google-services.json
+GoogleService-Info.plist
+*.env
+.env
+.env.local
+.env.production
+
+# Local property overrides
+application-local.properties
+application-local.yml
+application-*.properties
+!application-local.properties.example
+!application-prod.properties
+
+# Keystores
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.pem
+
+# OS
+.DS_Store
+Thumbs.db
